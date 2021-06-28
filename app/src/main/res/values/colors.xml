@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#CDDC39</color>
+    <color name="purple_500">#CDDC39</color>
+    <color name="purple_700">#CDDC39</color>
+    <color name="teal_200">#AFB42B</color>
+    <color name="teal_700">#AFB42B</color>
+    <color name="black">#AFB42B</color>
+    <color name="white">#AFB42B</color>
+</resources>
